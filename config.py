@@ -17,7 +17,6 @@ TMDB_EPISODE_LANGUAGE_SEARCH = False # more api calls, longer waiting time,
                                      # only useful if the tmdb language differs from en 
                                      # and episodes cannot be found in the season overview Api calls
 
-TRAKT_API_CLIENT_ID = ""
 TRAKT_API_CLIENT_SECRET = ""
 TRAKT_API_CLIENT_ID = "c4859fdea8cb358425c3131856689eda4df0ace0cf8af43ed94f9e9f1ac93d75"
 TRAKT_API_CLIENT_SECRET = "ac87de97f58ba7a7efff966d9c444dfc915f25c0ca1fb782b21b2af16a6521d1"
